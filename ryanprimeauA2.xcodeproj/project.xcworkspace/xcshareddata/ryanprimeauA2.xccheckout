@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9A228445-4211-46A9-8A40-1B93628CB96D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ryanprimeauA2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>24C35452FD407D010AB1D5D0BAA59B1D10934492</key>
+		<string>https://github.com/ryanprimeau/ryanprimeauA2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ryanprimeauA2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>24C35452FD407D010AB1D5D0BAA59B1D10934492</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ryanprimeau/ryanprimeauA2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>24C35452FD407D010AB1D5D0BAA59B1D10934492</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>24C35452FD407D010AB1D5D0BAA59B1D10934492</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ryanprimeauA2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

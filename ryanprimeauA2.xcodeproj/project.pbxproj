@@ -13,6 +13,7 @@
 		707E2DD51A758DE600AA4317 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 707E2DD41A758DE600AA4317 /* Images.xcassets */; };
 		707E2DD81A758DE600AA4317 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 707E2DD61A758DE600AA4317 /* LaunchScreen.xib */; };
 		707E2DE41A758DE700AA4317 /* ryanprimeauA2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 707E2DE31A758DE700AA4317 /* ryanprimeauA2Tests.swift */; };
+		707E2DEE1A7595BB00AA4317 /* AddNewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 707E2DED1A7595BB00AA4317 /* AddNewViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		707E2DDD1A758DE700AA4317 /* ryanprimeauA2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ryanprimeauA2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		707E2DE21A758DE700AA4317 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		707E2DE31A758DE700AA4317 /* ryanprimeauA2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ryanprimeauA2Tests.swift; sourceTree = "<group>"; };
+		707E2DED1A7595BB00AA4317 /* AddNewViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddNewViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				707E2DCD1A758DE600AA4317 /* AppDelegate.swift */,
 				707E2DCF1A758DE600AA4317 /* ViewController.swift */,
 				707E2DD11A758DE600AA4317 /* Main.storyboard */,
+				707E2DED1A7595BB00AA4317 /* AddNewViewController.swift */,
 				707E2DD41A758DE600AA4317 /* Images.xcassets */,
 				707E2DD61A758DE600AA4317 /* LaunchScreen.xib */,
 				707E2DCB1A758DE600AA4317 /* Supporting Files */,
@@ -214,6 +217,7 @@
 			files = (
 				707E2DD01A758DE600AA4317 /* ViewController.swift in Sources */,
 				707E2DCE1A758DE600AA4317 /* AppDelegate.swift in Sources */,
+				707E2DEE1A7595BB00AA4317 /* AddNewViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
